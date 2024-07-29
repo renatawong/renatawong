@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on quantum computation for drug discovery, and many other things 
-- 📫 How to reach me: renata.wong@cgu.edu.tw. See also my personal website: https://renatawong.github.io (under construction).
+- 📫 How to reach me: renata.wong@cgu.edu.tw. See also my personal website: https://renatawong.github.io.
 
 <!--
 **renatawong/renatawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
