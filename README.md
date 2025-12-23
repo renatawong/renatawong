@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in quantum information, AI applications in healthcare, and many other things
-- - 🌱 I’m currently learning Spanish
+- 🌱 I’m currently learning Spanish
 - 📫 How to reach me: renata.wong@cgu.edu.tw. See also my lab website: https://renatawong.github.io.
 
 <!--
