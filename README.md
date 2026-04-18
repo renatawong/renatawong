@@ -2,7 +2,7 @@
 
 - 🔭 I work in quantum information, and AI applications in biomedicine. I lead the Quantum AI Biomedical Research Lab @ Chang Gung University: https://renatawong.github.io.
 - 🌱 I’m currently learning Spanish
-- 📫 How to reach me: renata.wong@cgu.edu.tw. 
+- 📫 How to reach me: quantum.lab.cgu@gmail.com. 
 
 <!--
 **renatawong/renatawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
