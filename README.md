@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I work in quantum information, and AI applications in biomedicine. I lead the Quantum AI Biomedical Research Lab @ Chang Gung University: https://renatawong.github.io.
+- ⚡ I am Polish, but living in Taiwan
+- 🔭 I work in quantum information, and AI applications in biomedicine.
+  
+- ⚡ Assistant Professor in Quantum Information @ Department of Artificial Intelligence, Chang Gung University: https://pure.lib.cgu.edu.tw/en/persons/renata-wong/
+- ⚡ Assistant Research Fellow @ Department of Neurology, Chang Gung Memorial Hospital
+- ⚡ Section Head @ International Technology Cooperation Section, Artificial Intelligence Research Center, Chang Gung University: https://www.cgu.edu.tw/aic-en/Contents?nodeId=12995
+- ⚡ I lead the Quantum AI Biomedical Research Lab @ Chang Gung University: https://renatawong.github.io
+
 - 🌱 I’m currently learning Spanish
 - 📫 How to reach me: quantum.lab.cgu@gmail.com. 
 
